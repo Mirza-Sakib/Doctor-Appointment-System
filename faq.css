@@ -1,0 +1,41 @@
+body{
+margin:0;
+padding:0;
+background:url(banner1.jpg);
+background-size: cover;
+font-family:sans-serif;
+}
+.faqHeader {
+font-size: 27px;
+margin: 20px;
+text-transform: uppercase;
+}
+
+.panel-heading  h4{
+font-family:sans-serif;
+color: #F58723;
+font-size: 20px;
+}
+
+.panel-body {
+font-family:sans-serif;
+color: #F58723;
+font-size: 20px;
+}
+
+.box {
+background: #b8bbc0;
+margin: 0 0 30px;
+border: solid 1px #e6e6e6;
+box-sizing: border-box;
+padding:20px;
+box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+#faq h2 {
+text-transform: uppercase;
+font-size: 36px;
+color: #4993e4;
+font-weight: 100;
+text-align: center;
+}
